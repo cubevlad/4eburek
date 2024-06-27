@@ -38,6 +38,8 @@
       "@shared/*": ["./src/shared/*"],
       "@widgets": ["./src/widgets/*"],
       "@widgets/*": ["./src/widgets/*"],
+      "@styles": ["./src/styles"],
+      "@styles/*": ["./src/styles/*"],
       "@mui/styled-engine": ["./node_modules/@mui/styled-engine-sc"]
     }
   },
